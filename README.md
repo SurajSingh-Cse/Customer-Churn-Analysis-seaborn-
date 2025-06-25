@@ -73,8 +73,8 @@ Tenure and payment method have visible impact on customer retention.
 Visual charts reveal how different service features relate to churn behavior.
 
 ## Author
-Suraj Singh
-Data Analysis Enthusiast
+**Suraj Singh**
+**Data Analysis Enthusiast**
 📍 Dehradun, Uttarakhand
 📧 surajsinghnegi654@gmail.com
 
